@@ -24,6 +24,7 @@ This data set contains information about 10,000 movies collected from The Movie 
     - budget_adj           >> shows the budget associated movie in terms of 2010 dollars.
     - revenue_adj          >> shows the revenue associated movie in terms of 2010 dollars.
 Question(s) for Analysis
+
     - What's the relation between the budget and revenue
     - How dose the movies cost changed with the time
     - relationship between runtime and population (cost, revenue)
