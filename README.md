@@ -1,4 +1,4 @@
-##Dataset Description
+Dataset Description
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue in a CSV file called 'tmdb-movies.csv'.
 
     - id                   >> A unique identifier for each movie.
